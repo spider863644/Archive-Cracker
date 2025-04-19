@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 import sys
 import argparse
-
+import urllib.request
 colorama.init(autoreset=True)
 
 def info():
