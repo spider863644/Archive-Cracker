@@ -24,6 +24,10 @@ A fast, multithreaded password cracker for `.zip` and `.rar` archives using Pyth
 1. **Clone the repository:**
 
 ```bash
+apt update
+apt upgrade
+apt install git
+apt install python3
 git clone https://github.com/spider863644/Archive-Cracker.git
 cd Archive-Cracker
 ```
